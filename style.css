@@ -10,10 +10,12 @@ nav{
   text-align: center;
 }
 nav a{
-  padding: 12px;
+  padding: 0px 10px;
+  background-color: gray;
 }
 img{
   width: 900px;
+  margin: auto;
 }
 #featured-property figure, p{
   text-align: center;
@@ -25,7 +27,6 @@ img{
 #details div{
   float: left;
   width: 25%;
- 
   background-color: red;
   text-align: center;
 }
